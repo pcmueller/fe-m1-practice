@@ -1,7 +1,9 @@
-#Day 1: HTML and CSS
+# Day 1: HTML and CSS
+---
 
 ## Questions
----
+
+
 ### On a website, what is the purpose of HTML code?
 
 The purpose of HTML code is to describe the structure of a web page.
