@@ -59,16 +59,17 @@ Semantic markup provides additional information within a web page without affect
 
 ### What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.
 
-<article>
+`<article>``
 * intended for a section of content that forms an independent part of a document or site; for example, a magazine or newspaper article, or a blog entry.
 
-<aside>
+`<aside>`
 * intended for content that is not part of the flow of the text in which it appears, but is still related in some way.
 
-<details>
+`<details>`
 * specifies additional details that the user can open and close on demand; often used to create an interactive widget that the user can open and close.
 
 
 ## Exercises
----
+
+
 [Pete's CodePen] (https://codepen.io/pcmueller/pen/mdroxWb)
